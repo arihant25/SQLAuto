@@ -1,0 +1,3 @@
+SELECT *
+FROM CHAIR, DESK
+WHERE CHAIR.wood = DESK.wood
