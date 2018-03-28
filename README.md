@@ -1,2 +1,2 @@
 # SQLAuto
-Transpiling language to SQL query syntax.
+Transpiling self-language to SQL query syntax.
